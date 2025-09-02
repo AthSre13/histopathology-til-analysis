@@ -1,4 +1,4 @@
-streamlit
+streamlit==1.40.0
 tiatoolbox
 torch
 torchvision
@@ -11,3 +11,4 @@ joblib
 imageio
 pillow
 streamlit-drawable-canvas
+
