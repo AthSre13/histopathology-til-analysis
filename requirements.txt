@@ -1,0 +1,13 @@
+streamlit
+tiatoolbox
+torch
+torchvision
+matplotlib
+numpy
+pandas
+opencv-python
+scikit-learn
+joblib
+imageio
+pillow
+streamlit-drawable-canvas
